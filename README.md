@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=gruvbox)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=gruvbox) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=synthwave)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=synthwave) -->
 
 
 
