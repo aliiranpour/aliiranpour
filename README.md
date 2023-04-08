@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi guys 👋
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=gruvbox) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=tokyonight)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=synthwave) -->
+my name is ali iranpour.
+I'am a front-end developer and coding with react library.
+I love coding and creating attractive web page. 
 
-
-
+<img rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=tokyonight" />
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -17,7 +18,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
