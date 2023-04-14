@@ -3,8 +3,8 @@
 my name is ali iranpour.
 I'am a react-front-end developer.
 I'am here to share my code with you and i hope you make me happy by share your opinion with me and help me to improve my skill.
-I love team work so it's my pleasure if you want let's program together
-         
+I love team work and never give up to debug my code.
+I love learning and nothing can stop me to update my knowledge.
                                       
 <img src="https://github-readme-stats.vercel.app/api?username=aliiranpour&show_icons=true&theme=tokyonight" />
 <div style="display:flex; margin:'155px';">
